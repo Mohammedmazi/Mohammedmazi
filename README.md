@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nu-orpin-0x7va3q1um.vercel.app/](https://portfolio-nu-orpin-0x7va3q1um.vercel.app/)
 
-- 📝 I regularly write articles on [Coming soon....](Coming soon....)
+- 📝 I regularly write articles on (Coming soon....)
 
 - 💬 Ask me about **FastAPI React.js Python AI/ML Docker Sockets Blockchain**
 
